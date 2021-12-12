@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to SMinOo.
 
 You can use the [editor on GitHub](https://github.com/minminoo10/minminoo.ghithub.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
